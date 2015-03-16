@@ -42,22 +42,22 @@ Software downloads:
     Developer Edition      http://www.tbd.net/Downloads/dev-edition
     Aurora                 http://www.tbd.net/Downloads/Aurora
 
->_Nightly_            builds created out of the central repository every night. These are not qualified by QA.
+>__Nightly__            builds created out of the central repository every night. These are not qualified by QA.
 
->_Aurora_    		   builds created out of the aurora repository, which is synced from mozilla-central every weeks. 
+>__Aurora__    		   builds created out of the aurora repository, which is synced from mozilla-central every weeks. 
 >There is a small amount of QA at the start of the 1 week period before the updates are offered.
 
->_Developer Edition_  builds created out of the develop repository, created for developers.
+>__Developer Edition__  builds created out of the develop repository, created for developers.
 
->_Beta_               builds created out of the master repository, qualified by QA as being of sufficient quality to release to beta users.
+>__Beta__               builds created out of the master repository, qualified by QA as being of sufficient quality to release to beta users.
 
->_Release_            builds created out of the release repository, qualified by QA as being of sufficient quality to release to hundreds of millions of people.
+>__Release__            builds created out of the release repository, qualified by QA as being of sufficient quality to release to hundreds of millions of people.
 
  
 
 ## Versioning
 
-For transparency into our release cycle and in striving to maintain backward compatibility, Bootstrap is maintained under [the Semantic Versioning guidelines](http://semver.org/). Sometimes we screw up, but we'll adhere to those rules whenever possible.
+For transparency into our release cycle and in striving to maintain backward compatibility, **SWDP** is maintained under [the Semantic Versioning guidelines](http://semver.org/). Sometimes we screw up, but we'll adhere to those rules whenever possible.
 
 
 ## Copyright and license
@@ -72,7 +72,4 @@ For transparency into our release cycle and in striving to maintain backward com
 ## Contributions
 
 Any contributions you make to this effort **are of course greatly appreciated**.
-
-However, if you choose to contribute content (not just typo corrections) to this repo, you agree that you're giving me a non-exclusive license to use that content for the book series, as I (and O'Reilly) deem appropriate. You probably guessed that already, but we just have to make the lawyers happy by explicitly stating it. So: blah, blah, blah... :)
-
 
