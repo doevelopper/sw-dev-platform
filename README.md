@@ -18,12 +18,19 @@ as
 
  
 **Main project web site**:     http://www.tbd.net/
+
 **Project forums**:            http://forums.tbd.net/
+
 **Wiki, docs and manuals**:    http://wiki.tbd.net/
+
 **Bug and issue tracker**:     http://defects-management.tbd.net/
+
 **Source code repository**:    http://git.tbd.net/
+
 **Crucible code reviews**:     http://reviews.tbd.net/
+
 **Project build server**:      http://bamboo.tbd.net/
+
 **Community blogs**:           http://forums.tbd.net/blogs/
 
 
@@ -35,11 +42,16 @@ Software downloads:
     Developer Edition      http://www.tbd.net/Downloads/dev-edition
     Aurora                 http://www.tbd.net/Downloads/Aurora
 
-    __Nightly__            builds created out of the central repository every night. These are not qualified by QA.
-    __Aurora__    		   builds created out of the aurora repository, which is synced from mozilla-central every weeks. There is a small amount of QA at the start of the 1 week period before the updates are offered.
-    __Developer Edition__  builds created out of the develop repository, created for developers.
-    __Beta__               builds created out of the master repository, qualified by QA as being of sufficient quality to release to beta users.
-    __Release__            builds created out of the release repository, qualified by QA as being of sufficient quality to release to hundreds of millions of people.
+>_Nightly_            builds created out of the central repository every night. These are not qualified by QA.
+
+>_Aurora_    		   builds created out of the aurora repository, which is synced from mozilla-central every weeks. 
+>There is a small amount of QA at the start of the 1 week period before the updates are offered.
+
+>_Developer Edition_  builds created out of the develop repository, created for developers.
+
+>_Beta_               builds created out of the master repository, qualified by QA as being of sufficient quality to release to beta users.
+
+>_Release_            builds created out of the release repository, qualified by QA as being of sufficient quality to release to hundreds of millions of people.
 
  
 
